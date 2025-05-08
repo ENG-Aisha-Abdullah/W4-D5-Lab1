@@ -16,3 +16,10 @@ btnFontSizeMore.addEventListener("click", () =>{
 btnFontSize_less.addEventListener("click", () =>{
     text.style.fontSize = "10px"
 });
+
+btnColor.addEventListener("click", () =>{
+    text.style.color = "red"
+});
+btnBackgroundcolor.addEventListener("click", () =>{
+   
+});
