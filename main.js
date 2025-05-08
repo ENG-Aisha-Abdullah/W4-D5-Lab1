@@ -21,5 +21,5 @@ btnColor.addEventListener("click", () =>{
     text.style.color = "red"
 });
 btnBackgroundcolor.addEventListener("click", () =>{
-   
+   document.body.style.backgroundColor="gray"
 });
